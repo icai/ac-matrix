@@ -1,7 +1,7 @@
 ac-matrix
 =========
 
-Javascript Array Matrix converting library
+Javascript Array Matrix converting library for constructing the developing simulation data and building the test list.
 
 
 
@@ -89,3 +89,7 @@ Javascript Array Matrix converting library
  combine Request parameters（http）building the url to create the test.
  
 > [https://github.com/icai/iNote/blob/master/casperjs/cacheweb.js#L145](https://github.com/icai/iNote/blob/master/casperjs/cacheweb.js#L145)
+
+construct the developing simulation data.
+
+>build the list of json
